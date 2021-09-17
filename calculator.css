@@ -160,3 +160,8 @@ body{
     width: 90%;
     border-radius: 4px;
 }
+
+
+.small-text {
+  font-size: 8.2px;
+}
